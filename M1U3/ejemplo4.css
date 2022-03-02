@@ -1,0 +1,30 @@
+h1{
+    text-transform: uppercase;
+    text-align: center;
+}
+h2{
+    text-transform: uppercase; /*mayuscula*/
+    color: blue;
+}
+p{
+    color: rgb(105, 13, 13);
+}
+
+.destacados{
+    color: brown;
+}
+
+#amarillo{
+    background-color: red;
+}
+
+#verde{
+    background-color: black;
+}
+
+img{
+    filter: grayscale(100);
+}
+img:hover{
+    filter: grayscale(0);
+}
